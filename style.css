@@ -73,12 +73,13 @@ ul{
 .lnmore{
     margin-bottom:8%;
     padding: 8px 20px;
-    background: darkgoldenrod;
+    background: rgb(253, 253, 0);
     border-radius: 20px;
-    color: whitesmoke;
+    color: rgb(34, 89, 238);
     border: 5px;
-    margin-bottom: 5%;
     margin-top: 5%;
+    position: relative;
+    bottom: 10%;
 }
 .LP_banner{
     width: 60vw;
@@ -103,7 +104,7 @@ body{
     background-image: url('lp1.jpg');
     background-size:cover;
     align-content: center;
-    display: flex;
+    display:flex;
     animation: 1s ease-out 0s 1 slideInLeft;
     
 }
