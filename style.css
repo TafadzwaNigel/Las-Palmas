@@ -73,9 +73,11 @@ ul{
 .lnmore{
     margin-bottom:8%;
     padding: 8px 20px;
-    background: rgb(253, 253, 0);
+    background: rgb(64, 66, 66);
     border-radius: 20px;
-    color: rgb(34, 89, 238);
+    color: #fff;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
     border: 5px;
     margin-top: 5%;
     position: relative;
